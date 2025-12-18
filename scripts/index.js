@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'jun 12, 2025',
-  name: 'Sonali ♡'
+  birthdate: 'feb 12, 2026',
+  name: 'Ananya Bou ♡'
 };
 
 function hideEverything() {
@@ -499,3 +499,4 @@ x = setInterval(function() {
   //     console.log("happy birthday");
   // }
 }, second);
+
